@@ -1,4 +1,7 @@
-Removed
+```
+A fork from teddysun/shadowsocks_install
+Date: June 29, 2019 
+```
 
 # Shadowsocks - libev 一鍵安裝
 https://web.archive.org/web/20190514070919/https://teddysun.com/358.html
